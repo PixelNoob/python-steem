@@ -15,6 +15,6 @@ s.commit.transfer(
     amount, 
     "SBD", 
     memo= memo, 
-    account="hcf27"
+    account="YOUR ACCOUNT"
 )
 print (amount1 + " SBD has been sent to " + to)
