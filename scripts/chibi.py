@@ -4,7 +4,7 @@ import json
 import random
 import json
 
-chibi_number = random.randint(1, 800)
+chibi_number = random.randint(1, 850)
 chibi = urllib.request.urlopen('https://chibigame.io/chibis.php?g&idj=' + str(chibi_number))
 result = chibi.read()
 result_json = json.loads(result)
