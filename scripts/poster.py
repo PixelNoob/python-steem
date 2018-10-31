@@ -12,4 +12,4 @@ s.commit.post(
     tags=["spam", "test"] # tags
 )
 
-print ("Posted to the the Blockchain!)
+print ("Posted to the Blockchain!")
