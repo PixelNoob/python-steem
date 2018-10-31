@@ -12,4 +12,4 @@ s.commit.post(
     tags=["spam", "test"] # tags
 )
 
-print ("Posted to the the Blockchain, see link: " + "https://steemit.com/@vinotinto")
+print ("Posted to the the Blockchain!)
