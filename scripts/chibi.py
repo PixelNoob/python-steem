@@ -1,3 +1,4 @@
+# this repository is an example of fetching information from URL and posting it into a steem post
 from steem import Steem
 import urllib.request
 import json
